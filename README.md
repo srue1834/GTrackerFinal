@@ -2,13 +2,23 @@
 
 # Dani
 - webpack.config.js
-- dist
+- imagenes
+- PrincipalE.jsx
 # Mirka
-- SignUp.js
+- SignUp.jsx
+- Formulario.jsx
+- index.js
 # Oscar
 - package.json
-- package-lock.json 
+- Login.js
+- - dist
 # Sofia
 - styles.css
+- useSignup.js
 - .babelrc
 - .eslint.js
+# Martin
+- .babelrc
+- .eslint.js
+- validar.js
+- .gitignore
